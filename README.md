@@ -1,2 +1,1 @@
-# SoyHenry-PreCourse
-Curso de introduccion a FullStack Developer en Soy Henry 
+Prueba de crear un repositorio y clonarlo desde git a mi maquina.
